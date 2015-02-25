@@ -12,7 +12,7 @@
     "bb": "bin/bb"
   },
   "dependencies": {
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "cli-table": "^0.3.1",
     "clui": "^0.3.1",
     "generator-ronin": "^0.1.2",
